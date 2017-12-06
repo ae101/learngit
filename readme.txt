@@ -14,4 +14,8 @@ Creating a new branch is quick and simple.
 Creating a new branch is quick and simple.
 >>>>>>> feature1
 Home is where the heart is.
+<<<<<<< HEAD
 Ha!
+=======
+Ha!
+>>>>>>> 62a791f0e6a6ed8426c65532b2fac1701c5ddfd8

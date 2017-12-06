@@ -1,2 +1,6 @@
 i'm a big hero!
+<<<<<<< HEAD
 i try
+=======
+i try.
+>>>>>>> 62a791f0e6a6ed8426c65532b2fac1701c5ddfd8
