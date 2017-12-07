@@ -1,2 +1,2 @@
-#other1
+#other12
 print('Hello, World!')
